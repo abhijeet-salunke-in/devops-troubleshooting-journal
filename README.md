@@ -13,6 +13,7 @@ This repository is my personal troubleshooting knowledge base where I document:
 - Kubernetes debugging
 - Networking issues
 - CI/CD pipeline failures
+- Vertual box & VM
 - Server configuration problems
 
 The goal is to improve problem-solving skills and maintain reusable solutions for future reference.
@@ -36,6 +37,7 @@ Each troubleshooting document contains:
 ## Repository Structure
 
 ```text
+Vertualbox/
 Linux/
 Git/
 Docker/
